@@ -2,11 +2,13 @@
 
 * **Dependencies:**
     <img src="https://github.com/Rovyou/dotfile-i3wm/blob/main/images/desktop.gif?raw=true" alt="Rice Showcase" align="right" width="480px">
+    * i3
     * Zsh
     * Nvim
     * Oh My Zsh (optional)
     * Picom
     * Alacritty
+    * Cava
     * Rofi
     * Polybar
     * Ranger
