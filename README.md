@@ -17,8 +17,6 @@
 **Contributing:**
 *If you're open to contributions, provide guidelines for how others can contribute to your project.*
 
-## Example
-
 ```markdown
 # My Awesome Dotfiles
 
