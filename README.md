@@ -2,7 +2,7 @@
 **Contributing:**
 *If you're open to contributions, provide guidelines for how others can contribute to your project.*
 
-# My Awesome Dotfiles
+# My i3 Dotfiles
 **Description:**
 A collection of my personal dotfiles to customize my development environment.
 
