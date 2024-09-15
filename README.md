@@ -1,6 +1,7 @@
 # My i3 Dotfiles
 
 * **Dependencies:**
+    <img src="https://github.com/Rovyou/dotfile-i3wm/blob/main/images/desktop.gif?raw=true" alt="Rice Showcase" align="right">
     * Zsh
     * Nvim
     * Oh My Zsh (optional)
@@ -9,7 +10,7 @@
     * Rofi
     * Polybar
     * Ranger
-  <img src="https://github.com/Rovyou/dotfile-i3wm/blob/main/images/desktop.gif?raw=true" alt="Rice Showcase" align="right">
+  
 * **Installation:**
        Clone this repository to your home directory:
 
