@@ -3,14 +3,6 @@
 **Description:**
 *Briefly describe what your dotfiles are and what they do.*
 
-**Information:**
-*Provide more detailed information about your dotfiles, such as:*
-    * **Purpose:** Why did you create these dotfiles? What problem do they solve?
-    * **Features:** What are the key features or customizations included in your dotfiles?
-    * **Dependencies:** What software or tools are required to use your dotfiles?
-    * **Installation:** How can someone else install and use your dotfiles?
-    * **Customization:** How can users customize your dotfiles to fit their needs?
-
 **Usage:**
 *Provide instructions on how to use your dotfiles.*
 
