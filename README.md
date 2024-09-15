@@ -1,7 +1,7 @@
 # My i3 Dotfiles
 
 * **Dependencies:**
-    <img src="https://github.com/Rovyou/dotfile-i3wm/blob/main/images/desktop.gif?raw=true" alt="Rice Showcase" align="right">
+    <img src="https://github.com/Rovyou/dotfile-i3wm/blob/main/images/desktop.gif?raw=true" alt="Rice Showcase" align="right" width="400px">
     * Zsh
     * Nvim
     * Oh My Zsh (optional)
