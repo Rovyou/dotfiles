@@ -1,4 +1,4 @@
-# I3 Arch-Linux Dotfile
+# i3 Arch-Linux Dotfile
 
 **Description:**
 *Briefly describe what your dotfiles are and what they do.*
