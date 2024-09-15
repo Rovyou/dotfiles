@@ -12,6 +12,7 @@
     * Rofi
     * Polybar
     * Ranger
+    * Neofetch
   
 * **Installation:**
        Clone this repository to your home directory:
