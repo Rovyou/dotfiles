@@ -23,3 +23,5 @@
 **Contributing:**
 Feel free to fork this repository and submit pull requests.
 
+<img src="https://github.com/Rovyou/dotfile-i3wm/blob/main/images/desktop.gif?raw=true" alt="Rice Showcase" align="right" width="450px" bottom="400px">
+
