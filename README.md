@@ -5,7 +5,7 @@
     * i3
     * Zsh
     * Nvim
-    * Oh My Zsh (optional)
+    * Oh My Zsh
     * Picom
     * Alacritty
     * Cava
