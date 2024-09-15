@@ -9,7 +9,7 @@
     * Rofi
     * Polybar
     * Ranger
-    <img src="https://github.com/Rovyou/dotfile-i3wm/blob/main/images/desktop.gif?raw=true" alt="Rice Showcase" align="center">
+       <img src="https://github.com/Rovyou/dotfile-i3wm/blob/main/images/desktop.gif?raw=true" alt="Rice Showcase" align="center">
 * **Installation:**
        Clone this repository to your home directory:
 
