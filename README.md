@@ -9,7 +9,7 @@ A collection of my personal dotfiles to customize my development environment.
 **Information:**
 * **Purpose:** To streamline my workflow and create a consistent development experience across different machines.
 * **Dependencies:**
-    <img src="https://github.com/Rovyou/dotfile-i3wm/blob/main/images/desktop.png?raw=true" alt="Rice Showcase" align="right" width="450px">
+    <img src="https://github.com/Rovyou/dotfile-i3wm/blob/main/images/desktop.png?raw=true" alt="Rice Showcase" align="right" width="450px" bottom="100px">
     * Zsh
     * Nvim
     * Oh My Zsh (optional)
