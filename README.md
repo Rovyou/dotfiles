@@ -38,7 +38,7 @@ A collection of my personal dotfiles to customize my development environment.
 * **Installation:**
        Clone this repository to your home directory:
        ```bash
-       git clone https://github.com/yourusername/your-dotfiles
+       git clone https://github.com/Rovyou/dotfile-i3wm.git
        ```
 
 * **Customization:**
