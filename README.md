@@ -17,7 +17,7 @@
        Clone this repository to your home directory:
 
        
-       git clone https://github.com/Rovyou/dotfile-i3wm.git
+       https://github.com/Rovyou/dotfiles/blob/main/images/desktop.gif
        
 * **Customization:**
     * Edit the configuration files in the `config` directory.
