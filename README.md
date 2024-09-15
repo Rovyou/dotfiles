@@ -1,7 +1,3 @@
-# i3-dotfile
-**Contributing:**
-*If you're open to contributions, provide guidelines for how others can contribute to your project.*
-
 # My i3 Dotfiles
 
 * **Dependencies:**
