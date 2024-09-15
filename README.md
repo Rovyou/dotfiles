@@ -17,7 +17,7 @@
        Clone this repository to your home directory:
 
        
-       https://github.com/Rovyou/dotfiles/blob/main/images/desktop.gif
+       https://github.com/Rovyou/dotfiles.git
        
 * **Customization:**
     * Edit the configuration files in the `config` directory.
