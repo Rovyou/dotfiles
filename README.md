@@ -1,14 +1,8 @@
 # i3 Arch-Linux Dotfile
-
-**Usage:**
-*Provide instructions on how to use your dotfiles.*
-
 **Contributing:**
 *If you're open to contributions, provide guidelines for how others can contribute to your project.*
 
-
 # My Awesome Dotfiles
-
 **Description:**
 A collection of my personal dotfiles to customize my development environment.
 
